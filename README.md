@@ -61,5 +61,6 @@ npm run local (访问本地后台系统，需运行ExamSystemJAVA后台系统)
 <img src="https://github.com/LvJiaChen/ExamSystemVue/blob/master/images/p3.png"/>
 
 ## 登录账号
+<br>http://tsexamsystem.cn</br>
 <br>教师登录账号： 0000629 密码：123456789</br>
 <br>学生登录账号：123456 密码： lk0001</br>
